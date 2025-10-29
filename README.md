@@ -11,7 +11,8 @@ Permite adicionar, editar e remover contatos de forma prática.
 - React Router DOM
 - ESLint + Prettier para padronização de código
 
-📦 Instalação e execução
+
+# 📦 Instalação e execução
 Clone o repositório e instale as dependências:
 
 git clone https://github.com/LuizEduardoSC/Lista_de_contatos_React-Redux.git
@@ -21,7 +22,7 @@ cd contact-list
 npm install
 
 
-Para rodar o projeto em modo de desenvolvimento:
+# Para rodar o projeto em modo de desenvolvimento:
 npm start
 
 
@@ -35,14 +36,14 @@ O app ficará disponível em:
 - npm run lint → roda o ESLint para verificar problemas no código
 - npm run format → formata o código com Prettier
 
-📖 Funcionalidades
+# 📖 Funcionalidades
 - ➕ Adicionar contato com nome, e-mail e telefone
 - ✏️ Editar contato existente
 - 🗑️ Remover contato com confirmação
 - 🎨 Interface estilizada com Styled Components
 - ✅ Código padronizado com ESLint + Prettier
 
-📂 Estrutura do projeto
+# 📂 Estrutura do projeto
 contact-list/
 ├── public/
 ├── src/
@@ -62,12 +63,12 @@ contact-list/
 
 
 
-🤝 Contribuição
+# 🤝 Contribuição
 - Faça um fork do projeto
 - Crie uma branch para sua feature (git checkout -b minha-feature)
 - Commit suas alterações (git commit -m 'Adiciona minha feature')
 - Faça push para a branch (git push origin minha-feature)
 - Abra um Pull Request
 
-📜 Licença
+#📜 Licença
 Sinta-se livre para usar, modificar e compartilhar.

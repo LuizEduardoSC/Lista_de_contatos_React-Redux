@@ -13,8 +13,11 @@ Permite adicionar, editar e remover contatos de forma prática.
 
 📦 Instalação e execução
 Clone o repositório e instale as dependências:
+
 git clone https://github.com/LuizEduardoSC/Lista_de_contatos_React-Redux.git
+
 cd contact-list
+
 npm install
 
 

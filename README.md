@@ -45,7 +45,7 @@ O app ficará disponível em:
 
 # 📂 Estrutura do projeto
 
-contact-list/
+```contact-list/
 ├── public/
 ├── src/
 │   ├── components/
@@ -61,15 +61,49 @@ contact-list/
 ├── .prettierrc
 ├── package.json
 └── README.md
+```
 
 
 
-# 🤝 Contribuição
+## 🤝 Contribuição
 - Faça um fork do projeto
 - Crie uma branch para sua feature (git checkout -b minha-feature)
 - Commit suas alterações (git commit -m 'Adiciona minha feature')
 - Faça push para a branch (git push origin minha-feature)
 - Abra um Pull Request
 
-#📜 Licença
+## 📜 Licença
 Sinta-se livre para usar, modificar e compartilhar.
+
+
+## 👤 Autor
+
+
+
+Luiz Eduardo
+
+📍 São José dos Campos, SP — Brasil  
+
+💬 Desenvolvedor apaixonado por soluções completas e bem estruturadas.
+
+
+
+---
+
+
+
+## 📬 Contato
+
+
+
+Se quiser trocar ideias ou colaborar:
+
+
+
+\- LinkedIn: https://www.linkedin.com/in/luiz-eduardosc/
+
+\- Email: luizeduardoedd1@gmail.com
+
+
+
+---

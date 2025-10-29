@@ -44,6 +44,7 @@ O app ficará disponível em:
 - ✅ Código padronizado com ESLint + Prettier
 
 # 📂 Estrutura do projeto
+
 contact-list/
 ├── public/
 ├── src/

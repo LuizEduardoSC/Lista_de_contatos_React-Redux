@@ -1,9 +1,9 @@
-📇 Contact List
+# 📇 Contact List
 
 Aplicação simples de lista de contatos desenvolvida em React, com gerenciamento de estado usando Redux Toolkit e estilização com Styled Components.
 Permite adicionar, editar e remover contatos de forma prática.
 
-🚀 Tecnologias utilizadas
+# 🚀 Tecnologias utilizadas
 - React
 - Redux Toolkit
 - React Redux
